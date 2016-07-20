@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
-#|                  [Company Name goes here] Labs Coding Challenge                           | 
+#|                  [Company-Name-undisclosed] Labs Coding Challenge                           | 
 --------------------------------------------------------------------------------
 The purpose of this test is to test your ability to write software to collect, 
 normalize, store, analyze and visualize “real world” data. The test is designed 
