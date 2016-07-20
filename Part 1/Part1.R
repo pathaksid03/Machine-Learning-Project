@@ -12,6 +12,7 @@ library(caret)
 library(ggplot2)
 library(mice)
 
+
 #imputing NAs
 com <- mice(codetest_train, m=1, maxit = 1)
 codetest_train <- complete(com)
