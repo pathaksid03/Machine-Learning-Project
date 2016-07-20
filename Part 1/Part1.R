@@ -12,6 +12,8 @@ library(caret)
 library(ggplot2)
 library(mice)
 
+#tested out a bunch of models with a bunch of variations in parameters
+
 #imputing NAs
 com <- mice(codetest_train, m=1, maxit = 1)
 codetest_train <- complete(com)
